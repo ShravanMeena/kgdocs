@@ -114,7 +114,7 @@ Response = [
 
 <!-- <hr /> -->
 
-##### Possible use cases of the API
+#### Possible use cases of the API
 
 - Returns a particular poll with vote counts
 
